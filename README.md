@@ -19,3 +19,8 @@ Note: To load LLaVA-Med with 4-bit quantization for the demo, ensure you have th
  - Explore the live demo on Hugging Face Spaces [here](https://huggingface.co/spaces/Veda0718/Llava-Med).
 
 For detailed experimental results on fine-tuning LLaVA-Med with VQA-RAD, SLAKE, and MED-VQA, refer to the _**report.pdf**_ included in this repository.
+
+## Credits
+ - Microsoft LLaVA-Med Paper, https://arxiv.org/abs/2306.00890
+ - Microsoft LLaVA-Med Repository, https://github.com/microsoft/LLaVA-Med
+ - LLaVA-Med Repository, https://github.com/onyekaokonji/LLaVA-Med
