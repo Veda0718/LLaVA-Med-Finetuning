@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+bitsandbytes
+transformers
+gradio
+Pillow
+openai
