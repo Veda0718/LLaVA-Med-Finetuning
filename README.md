@@ -19,17 +19,3 @@ Note: To load LLaVA-Med with 4-bit quantization for the demo, ensure you have th
  - Explore the live demo on Hugging Face Spaces [here](https://huggingface.co/spaces/Veda0718/Llava-Med).
 
 For detailed experimental results on fine-tuning LLaVA-Med with VQA-RAD, SLAKE, and MED-VQA, refer to the _**report.pdf**_ included in this repository.
-
----
-title: Llava Med
-emoji: 🦀
-colorFrom: gray
-colorTo: purple
-sdk: gradio
-sdk_version: 5.8.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
